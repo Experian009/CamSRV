@@ -1,0 +1,11 @@
+2026/09/12 21:44:09 INF MediaMTX v1.21.0, windows, amd64
+2026/09/12 21:44:09 INF configuration loaded from C:\Users\01\Downloads\Рабочий код v380\native-mediamtx.yml
+2026/09/12 21:44:09 INF [path live] [RTSP source] started
+2026/09/12 21:44:09 INF [RTSP] started with listeners on :8554 (TCP/RTSP)
+2026/09/12 21:44:09 INF [RTMP] started with listener on :1935 (TCP/RTMP)
+2026/09/12 21:44:09 INF [HLS] started with listener on :8888 (TCP/HTTP)
+2026/09/12 21:44:09 INF [WebRTC] started with listeners on :8889 (TCP/HTTP), :8189 (UDP/ICE)
+2026/09/12 21:44:09 INF [SRT] started with listener on :8890 (UDP/SRT)
+2026/09/12 21:44:09 INF [MoQ] started with listeners on :8892 (TCP/HTTP2), :8892 (UDP/HTTP3), :8893 (UDP/QUIC)
+2026/09/12 21:44:09 INF [path live] remuxing in order to change H264 packetization-mode from 0 to 1
+2026/09/12 21:44:09 INF [path live] stream is available and online, 2 tracks (H264, G711)

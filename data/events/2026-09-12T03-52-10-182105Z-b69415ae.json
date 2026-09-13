@@ -1,0 +1,17 @@
+{
+  "id": "2026-09-12T03-52-10-182105Z-b69415ae",
+  "createdAt": "2026-09-12T03:52:12.531379+00:00",
+  "fullPath": "C:\\Users\\01\\Downloads\\Рабочий код v380\\data\\events\\2026-09-12T03-52-10-182105Z-b69415ae-event-full.mp4",
+  "telegramPath": "C:\\Users\\01\\Downloads\\Рабочий код v380\\data\\events\\2026-09-12T03-52-10-182105Z-b69415ae-event-telegram.mp4",
+  "telegram": {
+    "state": "sent",
+    "sentAt": "2026-09-12T03:52:15.421104+00:00"
+  },
+  "archive": {
+    "state": "uploaded",
+    "attempts": 1,
+    "startedAt": "2026-09-12T03:52:15.429799+00:00",
+    "remoteDirectory": "/V380/events",
+    "uploadedAt": "2026-09-12T03:52:33.679603+00:00"
+  }
+}

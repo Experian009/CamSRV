@@ -1,0 +1,18 @@
+2026-09-12 21:38:01,656 INFO [v380-service] starting decoder
+2026-09-12 21:38:04,677 INFO [v380-service] starting mediamtx
+2026-09-12 21:38:06,739 INFO [v380-service] V380 Python service started (motion=True, continuous=True)
+2026-09-12 21:38:53,220 INFO [delivery-retry] local file deleted after confirmed TeraBox upload: 2026-09-12T03-51-14-609091Z.mp4
+2026-09-12 21:40:56,885 INFO [event-builder] motion event created: 2026-09-12T14-40-54-657708Z-252d1670
+2026-09-12 21:40:59,388 INFO [event-builder] local Telegram clip deleted after delivery: 2026-09-12T14-40-54-657708Z-252d1670-event-telegram.mp4
+2026-09-12 21:41:12,173 INFO [terabox-event] local file deleted after confirmed TeraBox upload: 2026-09-12T14-40-54-657708Z-252d1670-event-full.mp4
+2026-09-12 21:41:56,453 INFO [event-builder] motion event created: 2026-09-12T14-41-54-391806Z-cc94b5b0
+2026-09-12 21:41:58,490 INFO [event-builder] local Telegram clip deleted after delivery: 2026-09-12T14-41-54-391806Z-cc94b5b0-event-telegram.mp4
+2026-09-12 21:42:12,749 INFO [terabox-event] local file deleted after confirmed TeraBox upload: 2026-09-12T14-41-54-391806Z-cc94b5b0-event-full.mp4
+2026-09-12 21:43:12,392 INFO [v380-stop] stopping V380 service
+2026-09-12 21:43:12,392 INFO [v380-service] V380 Python service stopped
+2026-09-12 21:43:31,530 INFO [terabox-continuous] local file deleted after confirmed TeraBox upload: 2026-09-12T14-38-06-738725Z.mp4
+2026-09-12 21:44:06,059 INFO [v380-service] starting decoder
+2026-09-12 21:44:09,085 INFO [v380-service] starting mediamtx
+2026-09-12 21:44:11,129 INFO [v380-service] V380 Python service started (motion=True, continuous=True)
+2026-09-12 21:44:16,575 INFO [v380-stop] stopping V380 service
+2026-09-12 21:44:16,576 INFO [v380-service] V380 Python service stopped

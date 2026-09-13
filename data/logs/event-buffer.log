@@ -1,0 +1,34 @@
+[aac @ 0000027314b50300] Too many bits 12288.000000 > 6144 per frame requested, clamping to max
+[segment @ 00000273128b2340] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working in the future. Fix your code to set the timestamps properly
+[aac @ 00000238acc00800] Too many bits 12288.000000 > 6144 per frame requested, clamping to max
+[segment @ 00000238aaab9680] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working in the future. Fix your code to set the timestamps properly
+[in#0/rtsp @ 00000227eee93500] Failed reading RTSP data: End of file
+[in#0/rtsp @ 00000227eee93500] Could not find codec parameters for stream 0 (Video: h264, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[in#0/rtsp @ 00000227eee93500] Failed reading RTSP data: End of file
+[af#0:1 @ 00000227eeee56c0] No filtered frames for output stream, trying to initialize anyway.
+[aac @ 00000227eeee4fc0] Too many bits 12288.000000 > 6144 per frame requested, clamping to max
+[segment @ 00000227eeec29c0] dimensions not set
+[out#0/segment @ 00000227eeec0f40] Could not write header (incorrect codec parameters ?): Invalid argument
+[af#0:1 @ 00000227f0eeb880] Error sending frames to consumers: Invalid argument
+[af#0:1 @ 00000227f0eeb880] Task finished with error code: -22 (Invalid argument)
+[af#0:1 @ 00000227f0eeb880] Terminating thread with return code -22 (Invalid argument)
+[out#0/segment @ 00000227eeec0f40] Nothing was written into output file, because at least one of its streams received no packets.
+[in#0 @ 000002188e7909c0] method DESCRIBE failed: 404 (Not Found)
+[in#0 @ 000002188e790440] Error opening input: Server returned 404 Not Found
+Error opening input file rtsp://127.0.0.1:8554/live.
+Error opening input files: Server returned 404 Not Found
+[aac @ 00000193d48f00c0] Too many bits 12288.000000 > 6144 per frame requested, clamping to max
+[segment @ 00000193d28e57c0] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working in the future. Fix your code to set the timestamps properly
+[aac @ 000001b228e20640] Too many bits 12288.000000 > 6144 per frame requested, clamping to max
+[segment @ 000001b226af91c0] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working in the future. Fix your code to set the timestamps properly
+[aac @ 000001e24f9a2080] Too many bits 12288.000000 > 6144 per frame requested, clamping to max
+[segment @ 000001e24d3e0240] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working in the future. Fix your code to set the timestamps properly
+[aac @ 000001d0298f9a00] Too many bits 12288.000000 > 6144 per frame requested, clamping to max
+[segment @ 000001d0298e3d40] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working in the future. Fix your code to set the timestamps properly
+[aac @ 0000025b8bc20900] Too many bits 12288.000000 > 6144 per frame requested, clamping to max
+[segment @ 0000025b89b9ae00] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working in the future. Fix your code to set the timestamps properly
+[aac @ 0000027133d80300] Too many bits 12288.000000 > 6144 per frame requested, clamping to max
+[segment @ 0000027131c8ba40] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working in the future. Fix your code to set the timestamps properly
+[aac @ 00000211805d0900] Too many bits 12288.000000 > 6144 per frame requested, clamping to max
+[segment @ 00000211fe3db780] Timestamps are unset in a packet for stream 0. This is deprecated and will stop working in the future. Fix your code to set the timestamps properly

@@ -1,0 +1,10 @@
+logLevel: info
+rtspTransports: [tcp]
+webrtc: yes
+webrtcAddress: :8889
+webrtcLocalUDPAddress: :8189
+
+paths:
+  live:
+    source: rtsp://127.0.0.1:8554/live
+    rtspTransport: tcp

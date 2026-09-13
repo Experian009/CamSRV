@@ -1,0 +1,21 @@
+[V380] using relay server 143.42.205.184
+[RTSP] rtsp://172.22.0.13:8554/live
+[SNAPSHOT] http://172.22.0.13:8080/snapshot
+[WEB] http://172.22.0.13:8080
+[API] http://172.22.0.13:8080/api/
+[RTSP#1] playing
+[AUTH] success ticket=42868 deviceVersion=31
+[STREAM] login OK
+[STREAM] starting stream...
+[RECV] mode=Rtsp decrypt=True communicationVersion=0
+[RTSP#3] playing
+[RTSP#4] playing
+[RTSP#5] playing
+[FRAME] unknown type=0x5D len=32
+[FRAME] unknown type=0x5D len=32
+[FRAME] unknown type=0x5D len=32
+[FRAME] unknown type=0x5D len=32
+[FRAME] unknown type=0x5D len=32
+[out#0/image2pipe @ 0000024e1bf73b80] Output file does not contain any stream
+Error opening output file pipe:1.
+Error opening output files: Invalid argument
