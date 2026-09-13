@@ -1,0 +1,7 @@
+.env.windows
+data/
+__pycache__/
+*.py[cod]
+terabox/app/node_modules/
+auto.key
+auto.crt

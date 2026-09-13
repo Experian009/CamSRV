@@ -87,6 +87,7 @@ class V380GUI(tk.Tk):
         self.load_env()
         self.protocol("WM_DELETE_WINDOW", self.close)
         self.after(100, self._process_ui_queue)
+        self.after(0, self.start_service)
 
     # -------------------------------------------------------------------- ui
 
